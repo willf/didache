@@ -1,7 +1,8 @@
-The Didache
-ΔΙΔΑΧΗ ΤΩΝ ΔΩΔΕΚΑ ΑΠΟΣΤΟΛΩΝ
-The Lord's teaching to the heathen by the Twelve Apostles.
-Διδαχὴ κυρίου διὰ τῶν δώδεκα ἀποστόλων τοῖς ἔθνεσιν.
+\title The Didache
+\title ΔΙΔΑΧΗ ΤΩΝ ΔΩΔΕΚΑ ΑΠΟΣΤΟΛΩΝ
+
+\subtitle The Lord's teaching to the heathen by the Twelve Apostles.
+\subtitle Διδαχὴ κυρίου διὰ τῶν δώδεκα ἀποστόλων τοῖς ἔθνεσιν.
 
 \chapter I
 
