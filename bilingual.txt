@@ -1,8 +1,3 @@
-# Didache
-
-English text: http://www.thedidache.com/
-Greek text: https://www.ccel.org/l/lake/fathers/didache.htm
-
 \title The Didache
 \title ΔΙΔΑΧΗ ΤΩΝ ΔΩΔΕΚΑ ΑΠΟΣΤΟΛΩΝ
 
