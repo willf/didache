@@ -19,9 +19,9 @@ def interleave_files(file1_path, file2_path, output_path):
                 output_file.write("\n")
             elif re.match(r"^\s*\d+\.", line2):
                 verse_num, line2 = line2.split(".", 1)
-                output_file.write("\\verse " + verse_num + " " + line2.strip() + "\n")
+                output_file.write("\\verse " + verse_num + " " + line2.strip() + "\n\n")
             else:
-                output_file.write(line2 + "\n")
+                output_file.write(line2 + "\n\n")
 
 if __name__ == "__main__":
     interleave_files("english.txt", "greek.txt", "bilingual.txt")
