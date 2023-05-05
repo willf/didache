@@ -5,7 +5,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 Διδαχὴ κυρίου διὰ τῶν δώδεκα ἀποστόλων τοῖς ἔθνεσιν.
 
 
-\chapter I
+\chapter 1
 
 \verse 1 There are two Ways, one of Life and one of Death, and there is a great difference between the two Ways.
 \verse 1 Ὁδοὶ δύο εἰσί, μία τῆς ζωῆς καὶ μία τοῦ θανάτου, διαφορὰ δὲ πολλὴ μεταξὺ τῶν δύο ὁδῶν.
@@ -26,7 +26,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 6 ἀλλὰ καὶ περὶ τούτου δὲ εἰρηται· Ἱδρωσάτω ἡ ἐλεημοσύνη σου εἰς τὰς χεῖρας σου, μέχρις ἂν γνῷς τίνι δῷς.
 
 
-\chapter II
+\chapter 2
 
 \verse 1 But the second commandment of the teaching is this:
 \verse 1 Δευτέρα δὲ ἐντολὴ τῆς διδαχῆς·
@@ -50,7 +50,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 7 οὐ μισήσεις πάντα ἄνθρώπον, ἀλλὰ οὓς μὲν ἐλέγξεις, περὶ δὲ ὧν προσεύξῃ, οὓς δὲ ἀγαπήσεις ὑπὲρ τὴν ψυχήν σου.
 
 
-\chapter III
+\chapter 3
 
 \verse 1 My child, flee from every evil man and from all like him.
 \verse 1 Τέκνον μου, φεῦγε ἀπὸ παντὸς πονηροῦ καὶ ἀπὸ παντὸς ὁμοίου αὐτου.
@@ -83,7 +83,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 10 τὰ συμβαίνοντά σοι ἐνεργήματα ὡς ἀγαθὰ προσδέξῃ, εἰδὼς ὅτι ἄτερ θεοῦ οὐδὲν γίνεται.
 
 
-\chapter IV
+\chapter 4
 
 \verse 1 My child, thou shalt remember, day and night, him who speaks the word of God to thee, and thou shalt honor him as the Lord, for where the Lord's nature is spoken of, there is he present.
 \verse 1 Τέκνον μου, τοῦ λαλοῦντός σοι τὸν λόγον τοῦ θεοῦ μνησθήσῃ νυκτὸς καὶ ἡμέρας, τιμήσεις δὲ αὐτὸν ὡς κύριον· ὅθεν γὰρ ἡ κυριότης λαλεῖται, ἐκεῖ κύριός ἐστιν.
@@ -128,7 +128,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 14 ἐν ἐκκλησίᾳ ἐξομολογήσῃ τὰ παραπτώματά σου, καὶ οὐ προσελεύσῃ ἐπὶ προσευχήν σου ἐν συνειδήσει πονηρᾷ· αὕτη ἐστὶν ἡ ὁδὸς τῆς ζωῆς.
 
 
-\chapter V
+\chapter 5
 
 \verse 1 But the Way of Death is this: First of all, it is wicked and full of cursing, murders, adulteries, lusts, fornications, thefts, idolatries, witchcrafts, charms, robberies, false witness, hypocrisies, a double heart, fraud, pride, malice, stubbornness, covetousness, foul speech, jealousy, impudence, haughtiness, boastfulness.
 \verse 1 Ἡ δὲ τοῦ θανάτου ὁδός ἐστιν αὕτη· πρῶτονπάντων πονηρά ἐστι καὶ κατάρας μεστή· φόνοι, μοιχεῖαι, ἐπιθυμίαι, προνεῖαι, κλοπαί, εἰδωλολατρίαι, μαγεῖαι, φαρμακίαι, ἁρπαγαί, ψευδομαρτυριαι, ὑποκρίσεις, διπλοκαρδία, δόλος, ὑπερηφανία, κακία, αὐθάδεια, πλεονεξία, αἰσχρολογία, ζηλοτυπία, θρασύτης, ὕψος, ἀλαζονεία.
@@ -137,7 +137,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 2 διῶκται ἀγαθῶν, μισοῦντες ἀληθειαν, ἀγαπῶντες ψεῦδος, οὐ γινώσκοντες μισθὸν δικαιοσύνης, οὐ κολλώμενοι ἀγαθῷ οὐδὲ κρίσει δικαίᾳ ἀρυπνοῦντες οὐκ εἰς τὸ ἀγαθόν, ἀλλ’ εἰς τὸ πονηρόν· ὧν μακρὰν πραΰτης καὶ ὑπομονή, μάταια ἀγαπῶντες, διώκοντε ἀνταπόδομα, οὐκ ἐλεοῦντες πρωχόν, οὐ πονοῦντες ἐπὶ καταπονουμένῳ, οὐ γινώσκοντες τὸν ποιήσαντα αὐτούς, φονεῖς τέκνων, γινώσκοντες τὸν ποιήσαντα αὐτούς, φονεῖς τέκνων, φθορεῖς πλάσματος θεοῦ, ἀποστρεφόμενοι τὸν ἐνδεόμενον, καταπονοῦντες τὸν θλιβόμενον, πλουσίων παράκλητοι, πενήτων ἄνομοι κριταί, πανθαμάρτητοι· ῥυσθείητε, τέκνα, ἀπὸ τούτων ἁπάντων.
 
 
-\chapter VI
+\chapter 6
 
 \verse 1 See "that no one make thee to err" from this Way of the teaching, for he teaches thee without God.
 \verse 1 Ὅρα, μὴ τίς σε πλανήσῃ ἀπὸ ταύτης τῆς ὁδοῦ τῆς διδαχῆς, ἐπεὶ παρεκτὸς θεοῦ σε διδάσκει.
@@ -149,7 +149,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 3 περὶ δὲ τῆς βρώσεως, ὃ δύνασαι βάστασον· ἀπὸ δὲ τοῦ εἰδωλοθύτου λίαν πρόσεχε· λατρεία γάρ ἐστι θεῶν νεκρῶν.
 
 
-\chapter VII
+\chapter 7
 
 \verse 1 Concerning baptism, baptise thus: Having first rehearsed all these things, "baptise, in the Name of the Father and of the Son and of the Holy Ghost," in running water;
 \verse 1 Περὶ δὲ τοῦ βαπτίσματος, οὕτω βαπτίσατε· ταῦτα πάντα πρειπόντες, βαπτίσατε εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος ἐν ὕδατι ζῶντι.
@@ -164,7 +164,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 4 πρὸ δὲ τοῦ βαπτίσμος προνηστευσάτω ὁ βαπτίζων καὶ ὁ βαπτιζόμενος καὶ εἴ τινες ἄλλοι δύναται· κελεύεις δὲ νηστεῦσαι τὸν βαπτιζόμενον πρὸ μιᾶς ἢ δύο.
 
 
-\chapter VIII
+\chapter 8
 
 \verse 1 Let not your fasts be with the hypocrites, for they fast on Mondays and Thursdays, but do you fast on Wednesdays and Fridays.
 \verse 1 Αἱ δὲ νηστεῖαι ὑμῶν μὴ ἔστωσαν μετὰ τῶν ὑποκριτῶν. νηστεύουσι γὰρ δευτέρα σαββάτων καὶ πέμτῃ· ὑμεῖς δὲ νηστεύσατε τετράδα καὶ παρασκευήν.
@@ -176,7 +176,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 3 τρὶς τῆς ἡμέρας οὕτω προσεύχεσθε.
 
 
-\chapter IX
+\chapter 9
 
 \verse 1 And concerning the Eucharist, hold Eucharist thus:
 \verse 1 Περὶ δὲ τῆς εὐχαριστίας, οὕτως εὐχαριστήσατε·
@@ -194,7 +194,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 5 μηδεὶς δὲ φαγέτω μηδὲ πιέτω ἀπὸ τῆς εὐχαριστίας ὑμῶν, ἀλλ’ οἱ βαπτισθέντες εἰς ὄνομα κυρίου· καὶ γὰρ περὶ τούτου εἴρηκεν ὁ κύριος· Μὴ δῶτε τὸ ἅγιον τοῖς κυσί.
 
 
-\chapter X
+\chapter 10
 
 \verse 1 But after you are satisfied with food, thus give thanks:
 \verse 1 Μετὰ δὲ τὸ ἐμπλησθῆσαι οὗτως εὐχαριστήσατε·
@@ -218,7 +218,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 7 τοῖς δὲ προφήταις ἐπιτρέπετε εὐχαριστεῖν ὅσα θέλουσιν.
 
 
-\chapter XI
+\chapter 11
 
 \verse 1 Whosoever then comes and teaches you all these things aforesaid, receive him.
 \verse 1 Ὃς ἂν οὖν ἐλθὼν διδάξῃ ὑμᾶς ταῦτα πάντα τὰ προειρημένα, δέξασθε αὐτόν·
@@ -257,7 +257,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 12 ὃς δ’ ἂν εἴπῃ ἐν πνεύματι· δός μοι ἀργύρια ἢ ἕτερά τινα, οὐκ ἀκούσεσθε αὐτοῦ· ἐὰν δὲ περὶ ἄλλων ὑστερούντων εἴπῃ δοῦναι, μηδεὶς αὐτὸν κρινέτω.
 
 
-\chapter XII
+\chapter 12
 
 \verse 1 Let everyone who "comes in the Name of the Lord" be received; but when you have tested him you shall know him, for you shall have understanding of true and false.
 \verse 1 Πᾶς δὲ ὁ ἐρχόμενος ἐν ὀνόματι κυρίου δεχθήτω· ἔπειτα δὲ δοκιμάσαντες αὐτὸν γνώσεσθε, σύνεσιν γὰρ ἕξετε δεξιὰν καὶ ἀριστεράν.
@@ -275,7 +275,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 5 εἰ δ’ οὐ θέλει οὑτω ποιεῖν, χριστέμπρός ἐστι· προσέχετε ἀπὸ τῶν τοιούτων.
 
 
-\chapter XIII
+\chapter 13
 
 \verse 1 But every true prophet who wishes to settle among you is "worthy of his food."
 \verse 1 Πᾶς δὲ προφήτης ἀληθινὸς θέλων καθῆσθαι πρὸς ὑμᾶς ἄξιός ἐστι τῆς τροφῆς αὐτοῦ.
@@ -299,7 +299,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 7 ἀργυρίου δὲ καὶ ἱματισμοῦ καὶ παντὸς κτήματος λαβὼν τὴν ἀπαρχήν, ὡς ἂν σοι δόξῃ, δὸς κατὰ τὴν ἐντολήν.
 
 
-\chapter XIV
+\chapter 14
 
 \verse 1 On the Lord's Day of the Lord come together, break bread and hold Eucharist, after confessing your transgressions that your offering may be pure;
 \verse 1 Κατὰ κυριακὴν δὲ κυρίου συναχθέντες κλάσατε ἄρτον καὶ εὐχαριστήσατε, προεξομολογησάμενοι τὰ παραπτώματα ὑμῶν, ὅπως καθαρὰ ἡ θυσία ὑμῶν ᾐ.
@@ -311,7 +311,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 3 αὕτη γάρ ἐστιν ἡ ῥηθεῖσα ὑπὸ κυρίου· Ἐν παντὶ τόπὼ καὶ χρόνῳ προσφέρειν μοι θυσίαν καθαράν. ὅτι βασιλεὺς μέγας εἰμί, λέγει κύριος, καὶ τὸ ὄνομά μου θαυμαστὸν ἐν τοῖς ἔθνεσι.
 
 
-\chapter XV
+\chapter 15
 
 \verse 1 Appoint therefore for yourselves bishops and deacons worthy of the Lord, meek men, and not lovers of money, and truthful and approved, for they also minister to you the ministry of the prophets and teachers.
 \verse 1 Χειροτονήσατε οὖν ἑαυτοῖς ἐπισκόπους καὶ διακόνους ἀξίους τοῦ κυρίου, ἄνδρας πραεῖς καὶ ἀφιλαργύρους καὶ ἀληθεῖς καὶ δεδοκιμασμένους· ὑμῖν γὰρ λειτουργοῦσι καὶ αὐτοὶ τὴν λειτουργίαν τῶν προφητῶν καὶ διδασκάλων.
@@ -326,7 +326,7 @@ The Lord's teaching to the heathen by the Twelve Apostles.
 \verse 4 τὰς δὲ εὐχὰς ὑμῶν καὶ τὰς ἐλεημοσύνας καὶ πάσας τὰς πράξεις οὕτω ποιήσατε, ὡς ἔχετε ἐν τῷ εὐαγγελίῳ τοῦ κυρίου ἡμῶν.
 
 
-\chapter XVI
+\chapter 16
 
 \verse 1 "Watch" over your life "let your lamps" be not quenched "and your loins" be not ungirded, but be "ready," for ye know not "the hour in which our Lord cometh."
 \verse 1 Γρηγορεῖτε ὑπὲρ τῆς ζωῆς ὑμῶν· οἱ λύχνοι ὑμῶν μὴ σβεσθήτωσαν, καὶ αἱ ὀσφύες ὑμῶν μὴ ἐκλυέσθωσαν, ἀλλὰ γίνεσθε ἕτοιμοι· οὐ γὰρ οἴδατε τὴν ὥραν, ἐν ᾗ ὁ κύριος ἡμῶν ἔρχεται.
