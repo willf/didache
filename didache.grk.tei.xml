@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI  xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -8,6 +8,10 @@
       <publicationStmt>
       </publicationStmt>
       <sourceDesc>
+        <bibl><title>Apostolic Fathers: I Clement, II Clement, Ignatius, Polycarp, Didache,
+            Barnabas, The Shepherd of Hermas, The Martyrdom of Polycarp, The Epistle of Dio</title>,
+          edited by <author>Kirsopp Lake</author>, from CCEL:
+          https://www.ccel.org/l/lake/fathers/didache.htm </bibl>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
